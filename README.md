@@ -9,7 +9,7 @@
 
 ### console.clear()
 
-### console.count(label)
+### console:count(label)
 - label: `Type<String>` (unique label for count)
 
 ### console.error(thing)
@@ -21,10 +21,10 @@
 ### console.table(thing)
 - thing: `Type<Array>` (display a table/array as a dictionary)
 
-### console.time(label)
+### console:time(label)
 - label: `Type<String>` (unique label for time)
 
-### console.timeEnd(label)
+### console:timeEnd(label)
 - label: `Type<String>` (unique label for time)
 
 ### console.stack()
