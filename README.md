@@ -1,4 +1,4 @@
-# Roblox Console
+# RConsole
 #### The JavaScript console in Roblox Luau!
 
 ## Documentation
