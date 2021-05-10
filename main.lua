@@ -54,9 +54,8 @@ function Console:timeEnd(label: string?)
 end
 
 function Console.stack()
-	print(script:GetFullName())
+	print(debug.traceback())
 end
-
 
 function Console.warn(thing)
 	warn(thing)
